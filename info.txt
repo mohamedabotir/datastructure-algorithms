@@ -1,0 +1,3 @@
+some datastructure and algorithms
+-https://algs4.cs.princeton.edu/
+-algorithmsUnlock

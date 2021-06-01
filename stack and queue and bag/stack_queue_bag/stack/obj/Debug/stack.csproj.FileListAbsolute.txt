@@ -1,0 +1,7 @@
+D:\books\programming\datastructure and algo\code repo\stack and queue and bag\stack_queue_bag\stack\bin\Debug\stack.exe.config
+D:\books\programming\datastructure and algo\code repo\stack and queue and bag\stack_queue_bag\stack\bin\Debug\stack.exe
+D:\books\programming\datastructure and algo\code repo\stack and queue and bag\stack_queue_bag\stack\bin\Debug\stack.pdb
+D:\books\programming\datastructure and algo\code repo\stack and queue and bag\stack_queue_bag\stack\obj\Debug\stack.csprojAssemblyReference.cache
+D:\books\programming\datastructure and algo\code repo\stack and queue and bag\stack_queue_bag\stack\obj\Debug\stack.csproj.CoreCompileInputs.cache
+D:\books\programming\datastructure and algo\code repo\stack and queue and bag\stack_queue_bag\stack\obj\Debug\stack.exe
+D:\books\programming\datastructure and algo\code repo\stack and queue and bag\stack_queue_bag\stack\obj\Debug\stack.pdb
