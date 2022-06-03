@@ -1,0 +1,13 @@
+﻿using tree;
+var tree = new Binarytree();
+tree.root = new Node(50);
+tree.root.right = new Node(51);
+tree.root.left = new Node(30);
+tree.root.left.left = new Node(25);
+tree.root.left.right = new Node(31);
+tree.insert(new Node(52));
+tree.preOrder(tree.root);
+Console.WriteLine("========Post");
+tree.postOrder(tree.root);
+Console.WriteLine("========In");
+tree.inOrder(tree.root);

@@ -1,0 +1,15 @@
+C:\Users\H\source\repos\heapsort\bin\Debug\net6.0\HeapSort.exe
+C:\Users\H\source\repos\heapsort\bin\Debug\net6.0\HeapSort.deps.json
+C:\Users\H\source\repos\heapsort\bin\Debug\net6.0\HeapSort.runtimeconfig.json
+C:\Users\H\source\repos\heapsort\bin\Debug\net6.0\HeapSort.dll
+C:\Users\H\source\repos\heapsort\bin\Debug\net6.0\HeapSort.pdb
+C:\Users\H\source\repos\heapsort\obj\Debug\net6.0\HeapSort.csproj.AssemblyReference.cache
+C:\Users\H\source\repos\heapsort\obj\Debug\net6.0\HeapSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\H\source\repos\heapsort\obj\Debug\net6.0\HeapSort.AssemblyInfoInputs.cache
+C:\Users\H\source\repos\heapsort\obj\Debug\net6.0\HeapSort.AssemblyInfo.cs
+C:\Users\H\source\repos\heapsort\obj\Debug\net6.0\HeapSort.csproj.CoreCompileInputs.cache
+C:\Users\H\source\repos\heapsort\obj\Debug\net6.0\HeapSort.dll
+C:\Users\H\source\repos\heapsort\obj\Debug\net6.0\refint\HeapSort.dll
+C:\Users\H\source\repos\heapsort\obj\Debug\net6.0\HeapSort.pdb
+C:\Users\H\source\repos\heapsort\obj\Debug\net6.0\HeapSort.genruntimeconfig.cache
+C:\Users\H\source\repos\heapsort\obj\Debug\net6.0\ref\HeapSort.dll
