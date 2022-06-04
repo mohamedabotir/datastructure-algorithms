@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\H\\source\\repos\\datastructure-algorithms\\DFS\\DFS.csproj": {}
+    "C:\\Users\\H\\source\\repos\\datastructure-algorithms\\dfs\\DFS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\H\\source\\repos\\datastructure-algorithms\\DFS\\DFS.csproj": {
+    "C:\\Users\\H\\source\\repos\\datastructure-algorithms\\dfs\\DFS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\H\\source\\repos\\datastructure-algorithms\\DFS\\DFS.csproj",
+        "projectUniqueName": "C:\\Users\\H\\source\\repos\\datastructure-algorithms\\dfs\\DFS.csproj",
         "projectName": "DFS",
-        "projectPath": "C:\\Users\\H\\source\\repos\\datastructure-algorithms\\DFS\\DFS.csproj",
+        "projectPath": "C:\\Users\\H\\source\\repos\\datastructure-algorithms\\dfs\\DFS.csproj",
         "packagesPath": "C:\\Users\\H\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\H\\source\\repos\\datastructure-algorithms\\DFS\\obj\\",
+        "outputPath": "C:\\Users\\H\\source\\repos\\datastructure-algorithms\\dfs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\H\\AppData\\Roaming\\NuGet\\NuGet.Config",

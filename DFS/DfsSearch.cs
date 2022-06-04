@@ -63,5 +63,55 @@ namespace DFS
             }
 
         }
+        public void search(int start, int search)
+        {
+            bool[] Visited = new bool[size];
+            for (var i = 0; i < size; i++)
+            {
+                Visited[i] = false;
+            }
+            bool isfound = false;
+            Stack<int> s = new Stack<int>();
+            s.Push(start);
+            while (s.Count > 0)
+            {
+                int n = s.Pop();
+                s.Push(n);
+                Visited[n] = true;
+                Node head = array[n].head;
+                bool isDone = true;
+                while (head != null)
+                {
+                    if (search == head.dest)
+                    {
+                        Console.WriteLine($"Node is Found :{search} , Parent Value:{head.value} ");
+                        isfound = true;
+                        break;
+                    }
+                    if (Visited[head.dest] == false)
+                    {
+                        s.Push(head.dest);
+                        Visited[head.dest] = true;
+                        isDone = false;
+                        break;
+                    }
+                    else
+                    {
+                        head = head.Next;
+                    }
+                }
+                if (isfound)
+                {
+                    break;
+                }
+
+            }
+            if (!isfound)
+            {
+                Console.WriteLine("NotFound!");
+
+            }
+
+        }
     }
 }

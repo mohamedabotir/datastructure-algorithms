@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YTiidlXe1Rd7JNz7KEzCjpDz1LycpGicbaXeK59Zmy5Zywbwzqy3YfTyffIU7DHdDqrLwUUrd0RHYe+tpo8B2w==",
+  "dgSpecHash": "AtDbrPtvnmKLxurhB/vpoS+CuwbABRSNj0xnC6TnV3SQL9lrbcQKKve3PSSQHsym0Kee9S5lbTxZCzFmyGaCaQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\H\\source\\repos\\datastructure-algorithms\\DFS\\DFS.csproj",
+  "projectFilePath": "C:\\Users\\H\\source\\repos\\datastructure-algorithms\\dfs\\DFS.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
