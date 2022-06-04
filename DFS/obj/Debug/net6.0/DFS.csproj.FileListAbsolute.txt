@@ -1,0 +1,15 @@
+C:\Users\H\source\repos\datastructure-algorithms\DFS\bin\Debug\net6.0\DFS.exe
+C:\Users\H\source\repos\datastructure-algorithms\DFS\bin\Debug\net6.0\DFS.deps.json
+C:\Users\H\source\repos\datastructure-algorithms\DFS\bin\Debug\net6.0\DFS.runtimeconfig.json
+C:\Users\H\source\repos\datastructure-algorithms\DFS\bin\Debug\net6.0\DFS.dll
+C:\Users\H\source\repos\datastructure-algorithms\DFS\bin\Debug\net6.0\DFS.pdb
+C:\Users\H\source\repos\datastructure-algorithms\DFS\obj\Debug\net6.0\DFS.csproj.AssemblyReference.cache
+C:\Users\H\source\repos\datastructure-algorithms\DFS\obj\Debug\net6.0\DFS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\H\source\repos\datastructure-algorithms\DFS\obj\Debug\net6.0\DFS.AssemblyInfoInputs.cache
+C:\Users\H\source\repos\datastructure-algorithms\DFS\obj\Debug\net6.0\DFS.AssemblyInfo.cs
+C:\Users\H\source\repos\datastructure-algorithms\DFS\obj\Debug\net6.0\DFS.csproj.CoreCompileInputs.cache
+C:\Users\H\source\repos\datastructure-algorithms\DFS\obj\Debug\net6.0\DFS.dll
+C:\Users\H\source\repos\datastructure-algorithms\DFS\obj\Debug\net6.0\refint\DFS.dll
+C:\Users\H\source\repos\datastructure-algorithms\DFS\obj\Debug\net6.0\DFS.pdb
+C:\Users\H\source\repos\datastructure-algorithms\DFS\obj\Debug\net6.0\DFS.genruntimeconfig.cache
+C:\Users\H\source\repos\datastructure-algorithms\DFS\obj\Debug\net6.0\ref\DFS.dll
