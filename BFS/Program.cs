@@ -1,0 +1,13 @@
+﻿using bfs;
+Bfs bfs = new Bfs(6);
+bfs.AddNode(0, 50, 2);
+bfs.AddNode(0, 50, 1);
+bfs.AddNode(1, 40, 4);
+bfs.AddNode(1, 40, 3);
+bfs.AddNode(1, 40, 0);
+bfs.AddNode(3, 30, 1);
+bfs.AddNode(4, 45, 1);
+bfs.AddNode(2, 55, 5);
+bfs.AddNode(2, 55, 0);
+bfs.AddNode(5, 60, 2);
+bfs.explore(0);
