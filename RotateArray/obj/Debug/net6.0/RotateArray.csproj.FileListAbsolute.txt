@@ -1,0 +1,15 @@
+C:\Users\H\source\repos\datastructure-algorithms\RotateArray\bin\Debug\net6.0\RotateArray.exe
+C:\Users\H\source\repos\datastructure-algorithms\RotateArray\bin\Debug\net6.0\RotateArray.deps.json
+C:\Users\H\source\repos\datastructure-algorithms\RotateArray\bin\Debug\net6.0\RotateArray.runtimeconfig.json
+C:\Users\H\source\repos\datastructure-algorithms\RotateArray\bin\Debug\net6.0\RotateArray.dll
+C:\Users\H\source\repos\datastructure-algorithms\RotateArray\bin\Debug\net6.0\RotateArray.pdb
+C:\Users\H\source\repos\datastructure-algorithms\RotateArray\obj\Debug\net6.0\RotateArray.csproj.AssemblyReference.cache
+C:\Users\H\source\repos\datastructure-algorithms\RotateArray\obj\Debug\net6.0\RotateArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\H\source\repos\datastructure-algorithms\RotateArray\obj\Debug\net6.0\RotateArray.AssemblyInfoInputs.cache
+C:\Users\H\source\repos\datastructure-algorithms\RotateArray\obj\Debug\net6.0\RotateArray.AssemblyInfo.cs
+C:\Users\H\source\repos\datastructure-algorithms\RotateArray\obj\Debug\net6.0\RotateArray.csproj.CoreCompileInputs.cache
+C:\Users\H\source\repos\datastructure-algorithms\RotateArray\obj\Debug\net6.0\RotateArray.dll
+C:\Users\H\source\repos\datastructure-algorithms\RotateArray\obj\Debug\net6.0\refint\RotateArray.dll
+C:\Users\H\source\repos\datastructure-algorithms\RotateArray\obj\Debug\net6.0\RotateArray.pdb
+C:\Users\H\source\repos\datastructure-algorithms\RotateArray\obj\Debug\net6.0\RotateArray.genruntimeconfig.cache
+C:\Users\H\source\repos\datastructure-algorithms\RotateArray\obj\Debug\net6.0\ref\RotateArray.dll
