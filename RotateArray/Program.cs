@@ -1,22 +1,15 @@
 ﻿
-int[] data = { -1, -100, 3, 99 };
-Rotate(data, 2);
+int[] data = { 1, 2, 3, 4, 5, 6, 7 };
+Rotate(data, 3);
 void Rotate(int[] nums, int k)
 {
-    while (k > 0)
+    int[] temp = new int[nums.Length];
+    for (var i = 0; i < nums.Length; i++)
     {
-        for (int i = nums.Length - 1; i > 0; i--)
-        {
-
-            int temp = nums[nums.Length - 1];
-
-            int temp1 = nums[i];
-            nums[i] = nums[i - 1];
-            nums[i - 1] = temp1;
-        }
-
-        k--;
+        temp[(i + k) % nums.Length] = nums[i];
     }
+    nums = temp;
+
     display(nums);
 }
 void display(int[] nums)
