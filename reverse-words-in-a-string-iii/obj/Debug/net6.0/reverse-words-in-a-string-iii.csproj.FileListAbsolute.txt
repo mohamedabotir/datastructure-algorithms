@@ -1,0 +1,15 @@
+C:\Users\H\source\repos\datastructure-algorithms\reverse-words-in-a-string-iii\bin\Debug\net6.0\reverse-words-in-a-string-iii.exe
+C:\Users\H\source\repos\datastructure-algorithms\reverse-words-in-a-string-iii\bin\Debug\net6.0\reverse-words-in-a-string-iii.deps.json
+C:\Users\H\source\repos\datastructure-algorithms\reverse-words-in-a-string-iii\bin\Debug\net6.0\reverse-words-in-a-string-iii.runtimeconfig.json
+C:\Users\H\source\repos\datastructure-algorithms\reverse-words-in-a-string-iii\bin\Debug\net6.0\reverse-words-in-a-string-iii.dll
+C:\Users\H\source\repos\datastructure-algorithms\reverse-words-in-a-string-iii\bin\Debug\net6.0\reverse-words-in-a-string-iii.pdb
+C:\Users\H\source\repos\datastructure-algorithms\reverse-words-in-a-string-iii\obj\Debug\net6.0\reverse-words-in-a-string-iii.csproj.AssemblyReference.cache
+C:\Users\H\source\repos\datastructure-algorithms\reverse-words-in-a-string-iii\obj\Debug\net6.0\reverse-words-in-a-string-iii.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\H\source\repos\datastructure-algorithms\reverse-words-in-a-string-iii\obj\Debug\net6.0\reverse-words-in-a-string-iii.AssemblyInfoInputs.cache
+C:\Users\H\source\repos\datastructure-algorithms\reverse-words-in-a-string-iii\obj\Debug\net6.0\reverse-words-in-a-string-iii.AssemblyInfo.cs
+C:\Users\H\source\repos\datastructure-algorithms\reverse-words-in-a-string-iii\obj\Debug\net6.0\reverse-words-in-a-string-iii.csproj.CoreCompileInputs.cache
+C:\Users\H\source\repos\datastructure-algorithms\reverse-words-in-a-string-iii\obj\Debug\net6.0\reverse-words-in-a-string-iii.dll
+C:\Users\H\source\repos\datastructure-algorithms\reverse-words-in-a-string-iii\obj\Debug\net6.0\refint\reverse-words-in-a-string-iii.dll
+C:\Users\H\source\repos\datastructure-algorithms\reverse-words-in-a-string-iii\obj\Debug\net6.0\reverse-words-in-a-string-iii.pdb
+C:\Users\H\source\repos\datastructure-algorithms\reverse-words-in-a-string-iii\obj\Debug\net6.0\reverse-words-in-a-string-iii.genruntimeconfig.cache
+C:\Users\H\source\repos\datastructure-algorithms\reverse-words-in-a-string-iii\obj\Debug\net6.0\ref\reverse-words-in-a-string-iii.dll
