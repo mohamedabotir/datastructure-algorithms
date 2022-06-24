@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/abotir/datastructure-algorithms/TwoSumII/TwoSumII.csproj": {}
+    "/home/abotir/datastructure-algorithms/max-area-of-island/max-area-of-island.csproj": {}
   },
   "projects": {
-    "/home/abotir/datastructure-algorithms/TwoSumII/TwoSumII.csproj": {
+    "/home/abotir/datastructure-algorithms/max-area-of-island/max-area-of-island.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/abotir/datastructure-algorithms/TwoSumII/TwoSumII.csproj",
-        "projectName": "TwoSumII",
-        "projectPath": "/home/abotir/datastructure-algorithms/TwoSumII/TwoSumII.csproj",
+        "projectUniqueName": "/home/abotir/datastructure-algorithms/max-area-of-island/max-area-of-island.csproj",
+        "projectName": "max-area-of-island",
+        "projectPath": "/home/abotir/datastructure-algorithms/max-area-of-island/max-area-of-island.csproj",
         "packagesPath": "/home/abotir/.nuget/packages/",
-        "outputPath": "/home/abotir/datastructure-algorithms/TwoSumII/obj/",
+        "outputPath": "/home/abotir/datastructure-algorithms/max-area-of-island/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/abotir/.nuget/NuGet/NuGet.Config"
