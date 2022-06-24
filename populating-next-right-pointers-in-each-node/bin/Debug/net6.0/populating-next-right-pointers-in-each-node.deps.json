@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "populating-next-right-pointers-in-each-node/1.0.0": {
+        "runtime": {
+          "populating-next-right-pointers-in-each-node.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "populating-next-right-pointers-in-each-node/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+/home/abotir/datastructure-algorithms/populating-next-right-pointers-in-each-node/bin/Debug/net6.0/populating-next-right-pointers-in-each-node
+/home/abotir/datastructure-algorithms/populating-next-right-pointers-in-each-node/bin/Debug/net6.0/populating-next-right-pointers-in-each-node.deps.json
+/home/abotir/datastructure-algorithms/populating-next-right-pointers-in-each-node/bin/Debug/net6.0/populating-next-right-pointers-in-each-node.runtimeconfig.json
+/home/abotir/datastructure-algorithms/populating-next-right-pointers-in-each-node/bin/Debug/net6.0/populating-next-right-pointers-in-each-node.dll
+/home/abotir/datastructure-algorithms/populating-next-right-pointers-in-each-node/bin/Debug/net6.0/ref/populating-next-right-pointers-in-each-node.dll
+/home/abotir/datastructure-algorithms/populating-next-right-pointers-in-each-node/bin/Debug/net6.0/populating-next-right-pointers-in-each-node.pdb
+/home/abotir/datastructure-algorithms/populating-next-right-pointers-in-each-node/obj/Debug/net6.0/populating-next-right-pointers-in-each-node.csproj.AssemblyReference.cache
+/home/abotir/datastructure-algorithms/populating-next-right-pointers-in-each-node/obj/Debug/net6.0/populating-next-right-pointers-in-each-node.GeneratedMSBuildEditorConfig.editorconfig
+/home/abotir/datastructure-algorithms/populating-next-right-pointers-in-each-node/obj/Debug/net6.0/populating-next-right-pointers-in-each-node.AssemblyInfoInputs.cache
+/home/abotir/datastructure-algorithms/populating-next-right-pointers-in-each-node/obj/Debug/net6.0/populating-next-right-pointers-in-each-node.AssemblyInfo.cs
+/home/abotir/datastructure-algorithms/populating-next-right-pointers-in-each-node/obj/Debug/net6.0/populating-next-right-pointers-in-each-node.csproj.CoreCompileInputs.cache
+/home/abotir/datastructure-algorithms/populating-next-right-pointers-in-each-node/obj/Debug/net6.0/populating-next-right-pointers-in-each-node.dll
+/home/abotir/datastructure-algorithms/populating-next-right-pointers-in-each-node/obj/Debug/net6.0/ref/populating-next-right-pointers-in-each-node.dll
+/home/abotir/datastructure-algorithms/populating-next-right-pointers-in-each-node/obj/Debug/net6.0/populating-next-right-pointers-in-each-node.pdb
+/home/abotir/datastructure-algorithms/populating-next-right-pointers-in-each-node/obj/Debug/net6.0/populating-next-right-pointers-in-each-node.genruntimeconfig.cache
