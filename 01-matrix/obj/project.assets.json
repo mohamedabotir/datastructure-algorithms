@@ -8,24 +8,26 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/home/abotir/.nuget/packages/": {}
+    "C:\\Users\\H\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/abotir/datastructure-algorithms/01-matrix/01-matrix.csproj",
+      "projectUniqueName": "c:\\Users\\H\\source\\repos\\datastructure-algorithms\\01-matrix\\01-matrix.csproj",
       "projectName": "01-matrix",
-      "projectPath": "/home/abotir/datastructure-algorithms/01-matrix/01-matrix.csproj",
-      "packagesPath": "/home/abotir/.nuget/packages/",
-      "outputPath": "/home/abotir/datastructure-algorithms/01-matrix/obj/",
+      "projectPath": "c:\\Users\\H\\source\\repos\\datastructure-algorithms\\01-matrix\\01-matrix.csproj",
+      "packagesPath": "C:\\Users\\H\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\H\\source\\repos\\datastructure-algorithms\\01-matrix\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/abotir/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\H\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -58,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/6.0.105/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
