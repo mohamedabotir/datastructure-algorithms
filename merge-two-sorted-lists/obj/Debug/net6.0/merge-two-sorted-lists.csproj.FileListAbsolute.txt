@@ -1,0 +1,15 @@
+C:\Users\H\source\repos\datastructure-algorithms\merge-two-sorted-lists\bin\Debug\net6.0\merge-two-sorted-lists.exe
+C:\Users\H\source\repos\datastructure-algorithms\merge-two-sorted-lists\bin\Debug\net6.0\merge-two-sorted-lists.deps.json
+C:\Users\H\source\repos\datastructure-algorithms\merge-two-sorted-lists\bin\Debug\net6.0\merge-two-sorted-lists.runtimeconfig.json
+C:\Users\H\source\repos\datastructure-algorithms\merge-two-sorted-lists\bin\Debug\net6.0\merge-two-sorted-lists.dll
+C:\Users\H\source\repos\datastructure-algorithms\merge-two-sorted-lists\bin\Debug\net6.0\merge-two-sorted-lists.pdb
+C:\Users\H\source\repos\datastructure-algorithms\merge-two-sorted-lists\obj\Debug\net6.0\merge-two-sorted-lists.csproj.AssemblyReference.cache
+C:\Users\H\source\repos\datastructure-algorithms\merge-two-sorted-lists\obj\Debug\net6.0\merge-two-sorted-lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\H\source\repos\datastructure-algorithms\merge-two-sorted-lists\obj\Debug\net6.0\merge-two-sorted-lists.AssemblyInfoInputs.cache
+C:\Users\H\source\repos\datastructure-algorithms\merge-two-sorted-lists\obj\Debug\net6.0\merge-two-sorted-lists.AssemblyInfo.cs
+C:\Users\H\source\repos\datastructure-algorithms\merge-two-sorted-lists\obj\Debug\net6.0\merge-two-sorted-lists.csproj.CoreCompileInputs.cache
+C:\Users\H\source\repos\datastructure-algorithms\merge-two-sorted-lists\obj\Debug\net6.0\merge-two-sorted-lists.dll
+C:\Users\H\source\repos\datastructure-algorithms\merge-two-sorted-lists\obj\Debug\net6.0\refint\merge-two-sorted-lists.dll
+C:\Users\H\source\repos\datastructure-algorithms\merge-two-sorted-lists\obj\Debug\net6.0\merge-two-sorted-lists.pdb
+C:\Users\H\source\repos\datastructure-algorithms\merge-two-sorted-lists\obj\Debug\net6.0\merge-two-sorted-lists.genruntimeconfig.cache
+C:\Users\H\source\repos\datastructure-algorithms\merge-two-sorted-lists\obj\Debug\net6.0\ref\merge-two-sorted-lists.dll
