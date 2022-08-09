@@ -1,0 +1,15 @@
+C:\Users\H\source\repos\datastructure-algorithms\is-subsequence\bin\Debug\net6.0\is-subsequence.exe
+C:\Users\H\source\repos\datastructure-algorithms\is-subsequence\bin\Debug\net6.0\is-subsequence.deps.json
+C:\Users\H\source\repos\datastructure-algorithms\is-subsequence\bin\Debug\net6.0\is-subsequence.runtimeconfig.json
+C:\Users\H\source\repos\datastructure-algorithms\is-subsequence\bin\Debug\net6.0\is-subsequence.dll
+C:\Users\H\source\repos\datastructure-algorithms\is-subsequence\bin\Debug\net6.0\is-subsequence.pdb
+C:\Users\H\source\repos\datastructure-algorithms\is-subsequence\obj\Debug\net6.0\is-subsequence.csproj.AssemblyReference.cache
+C:\Users\H\source\repos\datastructure-algorithms\is-subsequence\obj\Debug\net6.0\is-subsequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\H\source\repos\datastructure-algorithms\is-subsequence\obj\Debug\net6.0\is-subsequence.AssemblyInfoInputs.cache
+C:\Users\H\source\repos\datastructure-algorithms\is-subsequence\obj\Debug\net6.0\is-subsequence.AssemblyInfo.cs
+C:\Users\H\source\repos\datastructure-algorithms\is-subsequence\obj\Debug\net6.0\is-subsequence.csproj.CoreCompileInputs.cache
+C:\Users\H\source\repos\datastructure-algorithms\is-subsequence\obj\Debug\net6.0\is-subsequence.dll
+C:\Users\H\source\repos\datastructure-algorithms\is-subsequence\obj\Debug\net6.0\refint\is-subsequence.dll
+C:\Users\H\source\repos\datastructure-algorithms\is-subsequence\obj\Debug\net6.0\is-subsequence.pdb
+C:\Users\H\source\repos\datastructure-algorithms\is-subsequence\obj\Debug\net6.0\is-subsequence.genruntimeconfig.cache
+C:\Users\H\source\repos\datastructure-algorithms\is-subsequence\obj\Debug\net6.0\ref\is-subsequence.dll

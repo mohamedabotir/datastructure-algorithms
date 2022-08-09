@@ -11,4 +11,4 @@ dfs.AddNode(2, 55, 5);
 dfs.AddNode(2, 55, 0);
 dfs.AddNode(5, 60, 2);
 
-dfs.search(0, 3);
+dfs.explore(0);

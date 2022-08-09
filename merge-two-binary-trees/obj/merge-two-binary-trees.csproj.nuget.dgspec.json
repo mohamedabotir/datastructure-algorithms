@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/home/abotir/datastructure-algorithms/merge-two-binary-trees/merge-two-binary-trees.csproj": {}
+    "c:\\Users\\H\\source\\repos\\datastructure-algorithms\\merge-two-binary-trees\\merge-two-binary-trees.csproj": {}
   },
   "projects": {
-    "/home/abotir/datastructure-algorithms/merge-two-binary-trees/merge-two-binary-trees.csproj": {
+    "c:\\Users\\H\\source\\repos\\datastructure-algorithms\\merge-two-binary-trees\\merge-two-binary-trees.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/abotir/datastructure-algorithms/merge-two-binary-trees/merge-two-binary-trees.csproj",
+        "projectUniqueName": "c:\\Users\\H\\source\\repos\\datastructure-algorithms\\merge-two-binary-trees\\merge-two-binary-trees.csproj",
         "projectName": "merge-two-binary-trees",
-        "projectPath": "/home/abotir/datastructure-algorithms/merge-two-binary-trees/merge-two-binary-trees.csproj",
-        "packagesPath": "/home/abotir/.nuget/packages/",
-        "outputPath": "/home/abotir/datastructure-algorithms/merge-two-binary-trees/obj/",
+        "projectPath": "c:\\Users\\H\\source\\repos\\datastructure-algorithms\\merge-two-binary-trees\\merge-two-binary-trees.csproj",
+        "packagesPath": "C:\\Users\\H\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\H\\source\\repos\\datastructure-algorithms\\merge-two-binary-trees\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/abotir/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\H\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/6.0.105/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -8,17 +8,21 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\H\\.nuget\\packages\\": {}
+    "C:\\Users\\H\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\H\\source\\repos\\datastructure-algorithms\\DFS\\DFS.csproj",
+      "projectUniqueName": "c:\\Users\\H\\source\\repos\\datastructure-algorithms\\DFS\\DFS.csproj",
       "projectName": "DFS",
-      "projectPath": "C:\\Users\\H\\source\\repos\\datastructure-algorithms\\DFS\\DFS.csproj",
+      "projectPath": "c:\\Users\\H\\source\\repos\\datastructure-algorithms\\DFS\\DFS.csproj",
       "packagesPath": "C:\\Users\\H\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\H\\source\\repos\\datastructure-algorithms\\DFS\\obj\\",
+      "outputPath": "c:\\Users\\H\\source\\repos\\datastructure-algorithms\\DFS\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
         "C:\\Users\\H\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
