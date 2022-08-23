@@ -8,17 +8,21 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\H\\.nuget\\packages\\": {}
+    "C:\\Users\\H\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\H\\source\\repos\\datastructure-algorithms\\merge-two-sorted-lists\\merge-two-sorted-lists.csproj",
+      "projectUniqueName": "c:\\Users\\H\\source\\repos\\datastructure-algorithms\\merge-two-sorted-lists\\merge-two-sorted-lists.csproj",
       "projectName": "merge-two-sorted-lists",
-      "projectPath": "C:\\Users\\H\\source\\repos\\datastructure-algorithms\\merge-two-sorted-lists\\merge-two-sorted-lists.csproj",
+      "projectPath": "c:\\Users\\H\\source\\repos\\datastructure-algorithms\\merge-two-sorted-lists\\merge-two-sorted-lists.csproj",
       "packagesPath": "C:\\Users\\H\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\H\\source\\repos\\datastructure-algorithms\\merge-two-sorted-lists\\obj\\",
+      "outputPath": "c:\\Users\\H\\source\\repos\\datastructure-algorithms\\merge-two-sorted-lists\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
         "C:\\Users\\H\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"

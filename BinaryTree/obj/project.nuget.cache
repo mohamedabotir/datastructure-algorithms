@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KP2Rb/KTe9lBmRu0e06riSOZU0D9scz3Q/mnJz/mbRXDBAN22C8DPLxzz/Tf3xmnOm4YBOEc1R1d/qvaxUItFw==",
+  "dgSpecHash": "ndcbdN1xXI3j/JVCM0AgP4vemaTsaeervFtjYWfZhKXLNwYjRQ3ZLHM3PAb6HaF0J/M5PPTW1k1lsK3edqzXkQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\H\\source\\repos\\binarytree\\BinaryTree.csproj",
+  "projectFilePath": "c:\\Users\\H\\source\\repos\\datastructure-algorithms\\BinaryTree\\BinaryTree.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
