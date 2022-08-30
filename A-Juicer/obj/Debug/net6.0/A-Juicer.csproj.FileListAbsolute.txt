@@ -1,0 +1,15 @@
+C:\Users\H\source\repos\datastructure-algorithms\A-Juicer\bin\Debug\net6.0\A-Juicer.exe
+C:\Users\H\source\repos\datastructure-algorithms\A-Juicer\bin\Debug\net6.0\A-Juicer.deps.json
+C:\Users\H\source\repos\datastructure-algorithms\A-Juicer\bin\Debug\net6.0\A-Juicer.runtimeconfig.json
+C:\Users\H\source\repos\datastructure-algorithms\A-Juicer\bin\Debug\net6.0\A-Juicer.dll
+C:\Users\H\source\repos\datastructure-algorithms\A-Juicer\bin\Debug\net6.0\A-Juicer.pdb
+C:\Users\H\source\repos\datastructure-algorithms\A-Juicer\obj\Debug\net6.0\A-Juicer.csproj.AssemblyReference.cache
+C:\Users\H\source\repos\datastructure-algorithms\A-Juicer\obj\Debug\net6.0\A-Juicer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\H\source\repos\datastructure-algorithms\A-Juicer\obj\Debug\net6.0\A-Juicer.AssemblyInfoInputs.cache
+C:\Users\H\source\repos\datastructure-algorithms\A-Juicer\obj\Debug\net6.0\A-Juicer.AssemblyInfo.cs
+C:\Users\H\source\repos\datastructure-algorithms\A-Juicer\obj\Debug\net6.0\A-Juicer.csproj.CoreCompileInputs.cache
+C:\Users\H\source\repos\datastructure-algorithms\A-Juicer\obj\Debug\net6.0\A-Juicer.dll
+C:\Users\H\source\repos\datastructure-algorithms\A-Juicer\obj\Debug\net6.0\refint\A-Juicer.dll
+C:\Users\H\source\repos\datastructure-algorithms\A-Juicer\obj\Debug\net6.0\A-Juicer.pdb
+C:\Users\H\source\repos\datastructure-algorithms\A-Juicer\obj\Debug\net6.0\A-Juicer.genruntimeconfig.cache
+C:\Users\H\source\repos\datastructure-algorithms\A-Juicer\obj\Debug\net6.0\ref\A-Juicer.dll
