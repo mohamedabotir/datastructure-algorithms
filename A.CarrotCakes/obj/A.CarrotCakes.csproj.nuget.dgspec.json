@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\H\\source\\repos\\datastructure-algorithms\\A-Juicer\\A-Juicer.csproj": {}
+    "C:\\Users\\H\\source\\repos\\datastructure-algorithms\\A.CarrotCakes\\A.CarrotCakes.csproj": {}
   },
   "projects": {
-    "c:\\Users\\H\\source\\repos\\datastructure-algorithms\\A-Juicer\\A-Juicer.csproj": {
+    "C:\\Users\\H\\source\\repos\\datastructure-algorithms\\A.CarrotCakes\\A.CarrotCakes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\H\\source\\repos\\datastructure-algorithms\\A-Juicer\\A-Juicer.csproj",
-        "projectName": "A-Juicer",
-        "projectPath": "c:\\Users\\H\\source\\repos\\datastructure-algorithms\\A-Juicer\\A-Juicer.csproj",
+        "projectUniqueName": "C:\\Users\\H\\source\\repos\\datastructure-algorithms\\A.CarrotCakes\\A.CarrotCakes.csproj",
+        "projectName": "A.CarrotCakes",
+        "projectPath": "C:\\Users\\H\\source\\repos\\datastructure-algorithms\\A.CarrotCakes\\A.CarrotCakes.csproj",
         "packagesPath": "C:\\Users\\H\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\H\\source\\repos\\datastructure-algorithms\\A-Juicer\\obj\\",
+        "outputPath": "C:\\Users\\H\\source\\repos\\datastructure-algorithms\\A.CarrotCakes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

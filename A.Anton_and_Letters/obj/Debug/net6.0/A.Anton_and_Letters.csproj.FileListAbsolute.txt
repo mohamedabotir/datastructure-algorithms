@@ -1,0 +1,15 @@
+C:\Users\H\source\repos\datastructure-algorithms\A.Anton_and_Letters\bin\Debug\net6.0\A.Anton_and_Letters.exe
+C:\Users\H\source\repos\datastructure-algorithms\A.Anton_and_Letters\bin\Debug\net6.0\A.Anton_and_Letters.deps.json
+C:\Users\H\source\repos\datastructure-algorithms\A.Anton_and_Letters\bin\Debug\net6.0\A.Anton_and_Letters.runtimeconfig.json
+C:\Users\H\source\repos\datastructure-algorithms\A.Anton_and_Letters\bin\Debug\net6.0\A.Anton_and_Letters.dll
+C:\Users\H\source\repos\datastructure-algorithms\A.Anton_and_Letters\bin\Debug\net6.0\A.Anton_and_Letters.pdb
+C:\Users\H\source\repos\datastructure-algorithms\A.Anton_and_Letters\obj\Debug\net6.0\A.Anton_and_Letters.csproj.AssemblyReference.cache
+C:\Users\H\source\repos\datastructure-algorithms\A.Anton_and_Letters\obj\Debug\net6.0\A.Anton_and_Letters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\H\source\repos\datastructure-algorithms\A.Anton_and_Letters\obj\Debug\net6.0\A.Anton_and_Letters.AssemblyInfoInputs.cache
+C:\Users\H\source\repos\datastructure-algorithms\A.Anton_and_Letters\obj\Debug\net6.0\A.Anton_and_Letters.AssemblyInfo.cs
+C:\Users\H\source\repos\datastructure-algorithms\A.Anton_and_Letters\obj\Debug\net6.0\A.Anton_and_Letters.csproj.CoreCompileInputs.cache
+C:\Users\H\source\repos\datastructure-algorithms\A.Anton_and_Letters\obj\Debug\net6.0\A.Anton_and_Letters.dll
+C:\Users\H\source\repos\datastructure-algorithms\A.Anton_and_Letters\obj\Debug\net6.0\refint\A.Anton_and_Letters.dll
+C:\Users\H\source\repos\datastructure-algorithms\A.Anton_and_Letters\obj\Debug\net6.0\A.Anton_and_Letters.pdb
+C:\Users\H\source\repos\datastructure-algorithms\A.Anton_and_Letters\obj\Debug\net6.0\A.Anton_and_Letters.genruntimeconfig.cache
+C:\Users\H\source\repos\datastructure-algorithms\A.Anton_and_Letters\obj\Debug\net6.0\ref\A.Anton_and_Letters.dll

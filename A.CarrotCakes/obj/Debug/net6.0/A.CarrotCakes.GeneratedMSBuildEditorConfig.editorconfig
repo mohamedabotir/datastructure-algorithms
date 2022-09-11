@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = A_Juicer
-build_property.ProjectDir = c:\Users\H\source\repos\datastructure-algorithms\A-Juicer\
+build_property.RootNamespace = A.CarrotCakes
+build_property.ProjectDir = C:\Users\H\source\repos\datastructure-algorithms\A.CarrotCakes\

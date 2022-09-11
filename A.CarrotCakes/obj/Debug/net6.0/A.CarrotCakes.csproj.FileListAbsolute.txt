@@ -1,0 +1,15 @@
+C:\Users\H\source\repos\datastructure-algorithms\A.CarrotCakes\bin\Debug\net6.0\A.CarrotCakes.exe
+C:\Users\H\source\repos\datastructure-algorithms\A.CarrotCakes\bin\Debug\net6.0\A.CarrotCakes.deps.json
+C:\Users\H\source\repos\datastructure-algorithms\A.CarrotCakes\bin\Debug\net6.0\A.CarrotCakes.runtimeconfig.json
+C:\Users\H\source\repos\datastructure-algorithms\A.CarrotCakes\bin\Debug\net6.0\A.CarrotCakes.dll
+C:\Users\H\source\repos\datastructure-algorithms\A.CarrotCakes\bin\Debug\net6.0\A.CarrotCakes.pdb
+C:\Users\H\source\repos\datastructure-algorithms\A.CarrotCakes\obj\Debug\net6.0\A.CarrotCakes.csproj.AssemblyReference.cache
+C:\Users\H\source\repos\datastructure-algorithms\A.CarrotCakes\obj\Debug\net6.0\A.CarrotCakes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\H\source\repos\datastructure-algorithms\A.CarrotCakes\obj\Debug\net6.0\A.CarrotCakes.AssemblyInfoInputs.cache
+C:\Users\H\source\repos\datastructure-algorithms\A.CarrotCakes\obj\Debug\net6.0\A.CarrotCakes.AssemblyInfo.cs
+C:\Users\H\source\repos\datastructure-algorithms\A.CarrotCakes\obj\Debug\net6.0\A.CarrotCakes.csproj.CoreCompileInputs.cache
+C:\Users\H\source\repos\datastructure-algorithms\A.CarrotCakes\obj\Debug\net6.0\A.CarrotCakes.dll
+C:\Users\H\source\repos\datastructure-algorithms\A.CarrotCakes\obj\Debug\net6.0\refint\A.CarrotCakes.dll
+C:\Users\H\source\repos\datastructure-algorithms\A.CarrotCakes\obj\Debug\net6.0\A.CarrotCakes.pdb
+C:\Users\H\source\repos\datastructure-algorithms\A.CarrotCakes\obj\Debug\net6.0\A.CarrotCakes.genruntimeconfig.cache
+C:\Users\H\source\repos\datastructure-algorithms\A.CarrotCakes\obj\Debug\net6.0\ref\A.CarrotCakes.dll

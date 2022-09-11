@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "A.CarrotCakes/1.0.0": {
+        "runtime": {
+          "A.CarrotCakes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A.CarrotCakes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
