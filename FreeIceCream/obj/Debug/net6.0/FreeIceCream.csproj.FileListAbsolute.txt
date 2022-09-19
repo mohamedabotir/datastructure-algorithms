@@ -1,0 +1,15 @@
+C:\Users\H\source\repos\datastructure-algorithms\FreeIceCream\bin\Debug\net6.0\FreeIceCream.exe
+C:\Users\H\source\repos\datastructure-algorithms\FreeIceCream\bin\Debug\net6.0\FreeIceCream.deps.json
+C:\Users\H\source\repos\datastructure-algorithms\FreeIceCream\bin\Debug\net6.0\FreeIceCream.runtimeconfig.json
+C:\Users\H\source\repos\datastructure-algorithms\FreeIceCream\bin\Debug\net6.0\FreeIceCream.dll
+C:\Users\H\source\repos\datastructure-algorithms\FreeIceCream\bin\Debug\net6.0\FreeIceCream.pdb
+C:\Users\H\source\repos\datastructure-algorithms\FreeIceCream\obj\Debug\net6.0\FreeIceCream.csproj.AssemblyReference.cache
+C:\Users\H\source\repos\datastructure-algorithms\FreeIceCream\obj\Debug\net6.0\FreeIceCream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\H\source\repos\datastructure-algorithms\FreeIceCream\obj\Debug\net6.0\FreeIceCream.AssemblyInfoInputs.cache
+C:\Users\H\source\repos\datastructure-algorithms\FreeIceCream\obj\Debug\net6.0\FreeIceCream.AssemblyInfo.cs
+C:\Users\H\source\repos\datastructure-algorithms\FreeIceCream\obj\Debug\net6.0\FreeIceCream.csproj.CoreCompileInputs.cache
+C:\Users\H\source\repos\datastructure-algorithms\FreeIceCream\obj\Debug\net6.0\FreeIceCream.dll
+C:\Users\H\source\repos\datastructure-algorithms\FreeIceCream\obj\Debug\net6.0\refint\FreeIceCream.dll
+C:\Users\H\source\repos\datastructure-algorithms\FreeIceCream\obj\Debug\net6.0\FreeIceCream.pdb
+C:\Users\H\source\repos\datastructure-algorithms\FreeIceCream\obj\Debug\net6.0\FreeIceCream.genruntimeconfig.cache
+C:\Users\H\source\repos\datastructure-algorithms\FreeIceCream\obj\Debug\net6.0\ref\FreeIceCream.dll

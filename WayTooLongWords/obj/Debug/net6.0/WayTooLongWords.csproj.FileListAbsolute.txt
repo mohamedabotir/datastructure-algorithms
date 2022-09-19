@@ -1,0 +1,15 @@
+C:\Users\H\source\repos\datastructure-algorithms\WayTooLongWords\bin\Debug\net6.0\WayTooLongWords.exe
+C:\Users\H\source\repos\datastructure-algorithms\WayTooLongWords\bin\Debug\net6.0\WayTooLongWords.deps.json
+C:\Users\H\source\repos\datastructure-algorithms\WayTooLongWords\bin\Debug\net6.0\WayTooLongWords.runtimeconfig.json
+C:\Users\H\source\repos\datastructure-algorithms\WayTooLongWords\bin\Debug\net6.0\WayTooLongWords.dll
+C:\Users\H\source\repos\datastructure-algorithms\WayTooLongWords\bin\Debug\net6.0\WayTooLongWords.pdb
+C:\Users\H\source\repos\datastructure-algorithms\WayTooLongWords\obj\Debug\net6.0\WayTooLongWords.csproj.AssemblyReference.cache
+C:\Users\H\source\repos\datastructure-algorithms\WayTooLongWords\obj\Debug\net6.0\WayTooLongWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\H\source\repos\datastructure-algorithms\WayTooLongWords\obj\Debug\net6.0\WayTooLongWords.AssemblyInfoInputs.cache
+C:\Users\H\source\repos\datastructure-algorithms\WayTooLongWords\obj\Debug\net6.0\WayTooLongWords.AssemblyInfo.cs
+C:\Users\H\source\repos\datastructure-algorithms\WayTooLongWords\obj\Debug\net6.0\WayTooLongWords.csproj.CoreCompileInputs.cache
+C:\Users\H\source\repos\datastructure-algorithms\WayTooLongWords\obj\Debug\net6.0\WayTooLongWords.dll
+C:\Users\H\source\repos\datastructure-algorithms\WayTooLongWords\obj\Debug\net6.0\refint\WayTooLongWords.dll
+C:\Users\H\source\repos\datastructure-algorithms\WayTooLongWords\obj\Debug\net6.0\WayTooLongWords.pdb
+C:\Users\H\source\repos\datastructure-algorithms\WayTooLongWords\obj\Debug\net6.0\WayTooLongWords.genruntimeconfig.cache
+C:\Users\H\source\repos\datastructure-algorithms\WayTooLongWords\obj\Debug\net6.0\ref\WayTooLongWords.dll
